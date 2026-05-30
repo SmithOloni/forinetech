@@ -502,7 +502,7 @@ section .title::after{
     margin-bottom: 15px;
 }
 .skills .skills-content .right .info{
-    display: flex;
+    display: flex; 
     margin-bottom: 5px;
     align-items: center;
     justify-content: space-between;
